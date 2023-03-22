@@ -28,7 +28,7 @@ This project has got the 2nd Position in "Smart India Hackathon 2022".
 <br>
 
 
-### 3D Model View
+### Signin & Signup Window look:
 ```
 3D Prototype Model of Smart Bin
 ```
