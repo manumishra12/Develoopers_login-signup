@@ -30,9 +30,10 @@ This project has got the 2nd Position in "Smart India Hackathon 2022".
 
 ### Signin & Signup Window look:
 
-<div align="left" >
-  <h2> <img src = "https://github.com/manumishra12/Money-Plant-/blob/main/3d_model.gif" width = 300px height=550px> </h2>
+<div float="right" width="400">
+  <img align="left" height="450" width="800" src="Thumbnail.jpeg">
 </div>
+
 <br>
 
 ```
