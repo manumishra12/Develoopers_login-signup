@@ -29,10 +29,13 @@ This project has got the 2nd Position in "Smart India Hackathon 2022".
 
 
 ### Signin & Signup Window look:
-```
-3D Prototype Model of Smart Bin
-```
+
 <div align="left" >
   <h2> <img src = "https://github.com/manumishra12/Money-Plant-/blob/main/3d_model.gif" width = 300px height=550px> </h2>
 </div>
 <br>
+
+```
+Credits : Manu Mishra
+Contact : _mishramanu_
+```
