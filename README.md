@@ -2,28 +2,31 @@
 Signin and Signup window for website named Develoopers using HTML, CSS &amp; JAVASCRIPT
 
 <p>
-Money Plant is a project for the government that aim at smart and automated segregation of waste for the user and take the the weight of segregated waste like plastic,  metal, Glass, Organic waste and provide some "Incentive" to user depending on weight of waste.
-This segregated waste will be used for making organic fertiles and also used by Recycling industries.
+  A signin and sign-up window made using HTML, CSS, and JavaScript allows users to create new accounts or sign in to existing ones. The login and sign-up window typically includes input fields for the user's email address, username, and password, along with a submit button to process the information.
+</p>
 
-The Smart bin detect and segregate the waste by detecting its di-electric value and we also used an AI model for confirmation.
-Money plant also contain a website for government officail and user to keep track andd get notification.
+```
+The HTML code defines the structure of the window, including the layout of the input fields
+and the positioning of the submit button. The CSS code adds styling to the window, including 
+the color scheme, font, and spacing.
+```
 
-Moreover, Money Plant also have a user friendly Application to get Incentive and details like weight, waste type etc,
+```
+The JavaScript code adds functionality to the window, such as checking that the user has entered 
+a valid email address or password and handling errors if the user enters incorrect information. 
+It may also include code to send the user's information to a server for authentication or to 
+redirect the user to another page after successfully logging in or signing up.
+```
+
+<p>
+  Overall, a login and sign-up window made using HTML, CSS, and JavaScript is an essential component of many websites and applications, allowing users to securely access and manage their accounts.
 </p>
 <br>
 <br>
 
 ```
-This project has got the 2nd Position in "Smart India Hackathon 2022".
-
-  Team Members:
-  Manu Mishra ~ Team Leader
-  Christo Joby Antony
-  Rijul Bindal
-  Aryan Anand
-  Rohan Tiwari
-  Khushahali Chauchan 
- 
+Credits : Manu Mishra
+Contact : _mishramanu_
 ```
 <br>
 
@@ -31,11 +34,8 @@ This project has got the 2nd Position in "Smart India Hackathon 2022".
 ### Signin & Signup Window look:
 
 <div float="right" width="400">
-  <img align="left" height="450" width="800" src="Thumbnail.png">
+  <img align="left" height="650" width="900" src="Thumbnail.png">
 </div>
 <br>
 
-```
-Credits : Manu Mishra
-Contact : _mishramanu_
-```
+
